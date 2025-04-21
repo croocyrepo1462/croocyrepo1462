@@ -47,9 +47,9 @@ I'm a third-year Information Technology undergraduate at IIIT Allahabad, passion
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/croocyrepo1462/ChefkartBackend-main/tree/main/ChefkartBackend-main" target="_blank"> <img alt="Chefkart" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/croocyrepo1462/collab-cloud-code1" target="_blank"> <img alt="collab-cloud-code1" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/croocyrepo1462/Bank-Customer-Segmentation" target="_blank"> <img alt="Bank-Customer-Segmentation" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/croocyrepo1462/ChatApp-FileTransfer" target="_blank"> <img alt="ChatApp-FileTransfer" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/croocyrepo1462/Rakt-Bank" target="_blank"> <img alt="Rakt-Bank" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://github.com/croocyrepo1462/DMRC" target="_blank"> <img alt="DMRC" src="./projects/wavelength.svg" height="68" align="left"> </a>
+<a href="https://github.com/croocyrepo1462/ChefkartBackend-main/tree/main/ChefkartBackend-main" target="_blank"> <img alt="Chefkart" src="https://github.com/croocyrepo1462/croocyrepo1462/blob/main/projects/chefkart.svg" height="150" align="left"> </a>
+<a href="https://github.com/croocyrepo1462/collab-cloud-code1" target="_blank"> <img alt="collab-cloud-code1" src="https://github.com/croocyrepo1462/croocyrepo1462/blob/main/projects/collabcloud.svg"  height="150" align="left"> </a>
+<a href="https://github.com/croocyrepo1462/Bank-Customer-Segmentation" target="_blank"> <img alt="Bank-Customer-Segmentation" src="https://github.com/croocyrepo1462/croocyrepo1462/blob/main/projects/bank.svg" height="150" align="left"> </a>
+<a href="https://github.com/croocyrepo1462/ChatApp-FileTransfer" target="_blank"> <img alt="ChatApp-FileTransfer" src="https://github.com/croocyrepo1462/croocyrepo1462/blob/main/projects/chat.svg" height="150" align="left"> </a>
+<a href="https://github.com/croocyrepo1462/Rakt-Bank" target="_blank"> <img alt="Rakt-Bank" src="https://github.com/croocyrepo1462/croocyrepo1462/blob/main/projects/rakt.svg" height="150" align="left"> </a>
+<a href="https://github.com/croocyrepo1462/DMRC" target="_blank"> <img alt="DMRC" src="https://github.com/croocyrepo1462/croocyrepo1462/blob/main/projects/dmrc.svg" height="68" align="left"> </a>
