@@ -39,8 +39,8 @@ I'm a third-year Information Technology undergraduate at IIIT Allahabad, passion
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Streaks Overview](https://github.com/croocyrepo1462/croocyrepo1462/blob/main/projects/streak.svg)
+![Most Used Languages](https://github.com/croocyrepo1462/croocyrepo1462/blob/main/projects/languages.svg)
 
 </a>
 
