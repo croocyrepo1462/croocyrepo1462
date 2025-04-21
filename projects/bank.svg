@@ -1,0 +1,14 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bank Icon (roof and base) -->
+  <polygon points="60,60 100,30 140,60" fill="#2e3a59"></polygon>
+  <rect x="65" y="60" width="70" height="60" fill="#4f5d75"></rect>
+  
+  <!-- Segmentation Blocks inside bank -->
+  <rect x="70" y="70" width="20" height="20" fill="#f2f2f2"></rect>
+  <rect x="100" y="70" width="20" height="20" fill="#d9d9d9"></rect>
+  <rect x="85" y="100" width="20" height="20" fill="#b3b3b3"></rect>
+
+  <!-- Text inside bank -->
+  <text x="100" y="150" font-size="16" font-family="Arial, sans-serif" fill="#2e3a59" text-anchor="middle">Bank-Customer</text>
+  <text x="100" y="170" font-size="16" font-family="Arial, sans-serif" fill="#2e3a59" text-anchor="middle">Segmentation</text>
+</svg>

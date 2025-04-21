@@ -1,0 +1,14 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Chat Bubble -->
+  <path d="M50 60 Q50 40, 80 40 H140 Q160 40, 160 60 V100 Q160 120, 140 120 H90 L70 140 L75 120 H80 Q50 120, 50 100 Z" fill="#4e91f9" stroke="#2b6fc0" stroke-width="2"></path>
+
+  <!-- File Icon inside chat -->
+  <rect x="100" y="65" width="30" height="35" fill="#ffffff" rx="2"></rect>
+  <polyline points="100,65 115,65 115,80 130,80" fill="none" stroke="#4e91f9" stroke-width="2"></polyline>
+  <line x1="105" y1="75" x2="125" y2="75" stroke="#4e91f9" stroke-width="1.5"></line>
+  <line x1="105" y1="82" x2="125" y2="82" stroke="#4e91f9" stroke-width="1.5"></line>
+
+  <!-- Project Title -->
+  <text x="100" y="165" font-size="16" font-family="Arial, sans-serif" fill="#2e3a59" text-anchor="middle">ChatApp -</text>
+  <text x="100" y="185" font-size="16" font-family="Arial, sans-serif" fill="#2e3a59" text-anchor="middle">File Transfer</text>
+</svg>
