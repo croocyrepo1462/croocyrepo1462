@@ -1,7 +1,7 @@
 ## Hey 👋, I'm BT Manoj Pallakki!
 <a href='https://www.linkedin.com/in/manoj-pallakki-75b763259/'><img align='left' alt="linkedin" src="https://github.com/croocyrepo1462/croocyrepo1462/blob/main/assets/linkedin.svg" height='18px'/></a>
 
-I'm a third-year Information Technology undergraduate at IIIT Allahabad, passionate about problem-solving and full-stack web development. I specialize in crafting responsive web applications using modern technologies and continuously strive to enhance my skills in competitive programming. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I'm a final-year Information Technology undergraduate at IIIT Allahabad, passionate about problem-solving and full-stack web development. I specialize in crafting responsive web applications using modern technologies and continuously strive to enhance my skills in competitive programming. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
